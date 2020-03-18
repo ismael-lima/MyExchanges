@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_exchange"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="@string/exchange" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/exchange_history" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@android:drawable/ic_delete"
+            android:title="@string/menu_sign_out" />
+    </group>
+</menu>

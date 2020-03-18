@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">My Exchanges</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username_or_email">Nome de Usuário/Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="prompt_value_to_exchange">Valor para converter</string>
+    <string name="prompt_exchanged_value">Valor convertido</string>
+    <string name="action_sign_in">Login</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="register_title">"Informe seus dados"</string>
+    <string name="warning">Atenção</string>
+    <string name="ok">OK</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="txt_user_not_registered">"Ainda não esta cadastrado? "</string>
+    <string name="txt_register">"<u>Cadastre-se</u>"</string>
+    <string name="btn_register">"Cadastrar"</string>
+    <string name="prompt_name">"Nome"</string>
+    <string name="prompt_email">"Email"</string>
+    <string name="prompt_username">"Nome de Usuário"</string>
+    <string name="prompt_confirm_password">Confirmação de Senha</string>
+    <string name="error_msg_blank_field">Campo deve ser preenchido</string>
+    <string name="error_msg_password_dont_match">O valor de confirmação não é igual ao informado anteriormente</string>
+    <string name="error_not_found_user">Usuário não encontrado</string>
+    <string name="error_username_already_registered">Nome de usuário já esta cadastrado</string>
+    <string name="error_email_already_registered">Email já esta cadastrado</string>
+    <string name="error_on_registering">Falha ao cadastrar o usuário</string>
+    <string name="error_on_get_currencies">Falha ao recuperar tipos de moedas</string>
+    <string name="error_on_search_exchange">Falha ao pesquisar conversão</string>
+    <string name="error_on_search_history">Falha ao pesquisar historico de conversão</string>
+    <string name="error_on_get_user_data">falha ao recuperar os dados do usuário</string>
+    <string name="menu_exchange_rate">Conversão</string>
+    <string name="menu_history">Historico</string>
+    <string name="menu_sign_out">Sair</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="processando">Processando</string>
+    <string name="source_currency">Moeda de origem</string>
+    <string name="destination_currency">Moeda de destino</string>
+    <string name="exchange">Converter</string>
+    <string name="exchange_history">Historico de Conversão</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="exchancged_to">Convertido para</string>
+</resources>

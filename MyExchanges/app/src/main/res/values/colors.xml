@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#027FE4</color>
+    <color name="colorPrimaryDark">#054980</color>
+    <color name="colorAccent">#101B42</color>
+    <color name="colorMainButton">#1DA0E7</color>
+    <color name="colorMainButtonPressed">#0A5D8A</color>
+    <color name="colorMainButtonDisable">#AAACAC</color>
+    <color name="colorLink">#1D2FF2</color>bgProgressBar
+    <color name="colorbgProgressBar">#CCFFFFFF</color>
+</resources>
